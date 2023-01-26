@@ -46,6 +46,6 @@ discounts on essentials to keep them connected with the company.
 
 4. Customers tend to spend & purchase more can be worked upon (Like more deals, better more 
 
-variable products etc) to benefit the company.
+variable products etc. ) to benefit the company.
 
 5. Senior Customers should be connected with company in some or other ways.
