@@ -18,62 +18,34 @@ https://www.kaggle.com/imakash3011/customer-personality-analysis
 
 ![image](https://user-images.githubusercontent.com/112272836/214925663-735551b2-62d7-4ddf-b3ea-c99037cec859.png)
 
-- Justification of the clustered result
+- Justification of the clustered result :
 
-Customer personality analysis helps a business 
+Customer personality analysis helps a business to modify its product based on its target 
 
-to modify its product based on its target 
+customers from different types of customer segments. For example, instead of spending 
 
-customers from different types of customer 
+money to market a new product to every customer in the company’s database, a 
 
-segments. For example, instead of spending 
+company can analyse which customer segment is most likely to buy the product and then 
 
-money to market a new product to every 
+market the product only on that particular segment. So, these clusters appearing here 
 
-customer in the company’s database, a 
+they perform clustering to summarize customer segments. So now we know who are more into buying products.
 
-company can analyse which customer segment 
+1. New & Old Customers with average Income and fairly average amount spent should be focused on 
 
-is most likely to buy the product and then 
+more, better advertising and deals should be provided to them.
 
-market the product only on that particular 
-
-segment. So, these clusters appearing here 
-
-they perform clustering to summarize customer 
-
-segments. So now we know who are more into 
-
-buying products.
-
-1. New & Old Customers with average Income and 
-
-fairly average amount spent should be focused on 
-
-more, better advertising and deals should be 
-
-provided to them.
-
-2. If a new Non discounted expensive item will be 
-
-up for sale ads should be targeted better to 
+2. If a new Non discounted expensive item will be up for sale ads should be targeted better to 
 
 customers with high spending nature & income.
 
-3. Customers with low spending natures and low 
+3. Customers with low spending natures and low incomes should be targeted with flash deals and 
 
-incomes should be targeted with flash deals and 
+discounts on essentials to keep them connected with the company.
 
-discounts on essentials to keep them connected 
-
-with the company.
-
-4. Customers tend to spend & purchase more can 
-
-be worked upon (Like more deals, better more 
+4. Customers tend to spend & purchase more can be worked upon (Like more deals, better more 
 
 variable products etc) to benefit the company.
 
-5. Senior Customers should be connected with 
-
-company in some or other ways.
+5. Senior Customers should be connected with company in some or other ways.
