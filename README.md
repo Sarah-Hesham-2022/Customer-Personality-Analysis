@@ -1,4 +1,4 @@
-# Customer-Personality-Analysis-
+# Customer-Personality-Analysis
 
 -Using K-Means and R Language.
 
